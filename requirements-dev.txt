@@ -1,0 +1,17 @@
+-r requirements.txt
+
+flake8==7.1.1
+mccabe==0.7.0
+pycodestyle==2.12.1
+pyflakes==3.2.0
+colorama==0.4.6
+iniconfig==2.0.0
+packaging==24.2
+pluggy==1.5.0
+pytest==8.3.4
+pytest-aiohttp==1.0.5
+pytest-asyncio==0.25.0
+Faker==33.1.0
+factory_boy==3.3.1
+python-dateutil==2.9.0.post0
+six==1.17.0
